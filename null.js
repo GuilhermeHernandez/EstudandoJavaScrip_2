@@ -16,4 +16,3 @@ let texto = 'Alura';
 
 console.log(typeof minhaVar);
 console.log(typeof varNull);
-

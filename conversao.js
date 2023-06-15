@@ -19,5 +19,3 @@ console.log(numeroStr + numero)
 //Number()
 //String()
 console.log(numero + Number(numeroStr))
-
-
